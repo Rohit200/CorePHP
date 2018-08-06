@@ -1,0 +1,18 @@
+[
+    {
+        "name":"PHP",
+        "Price":50
+    },
+    {
+        "name":"JAVA",
+        "Price":60
+    },
+    {
+        "name":"SQL",
+        "Price":40
+    },
+    {
+        "name":"HTML",
+        "Price":40
+    }
+]
